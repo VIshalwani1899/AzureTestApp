@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/e1dff21f-6afb-49f7-989d-736e5a4409c5/resourceGroups/SampleResourceGroup/providers/Microsoft.Web/sites/AzureAppTest2",
+    "appService.deploySubpath": "dist\\azure-test-app"
+}
